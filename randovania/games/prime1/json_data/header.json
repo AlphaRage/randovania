@@ -490,6 +490,10 @@
             "Event49": {
                 "long_name": "Gravity Chamber Item (Lower)",
                 "extra": {}
+            },
+            "Event52": {
+                "long_name": "Control Tower Pirate Fight",
+                "extra": {}
             }
         },
         "tricks": {
