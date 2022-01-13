@@ -23,13 +23,17 @@ Extra - asset_id: 3289414871
   * Normal Door to Transport to Magmoor Caverns West/Door to Shoreline Entrance
   * Extra - dock_index: 0
   > Door to Phendrana Shorelines
-      Charge Beam or Missile ≥ 3
+      All of the following:
+          Shoot Any Beam
+          Charge Beam or Missile ≥ 3
 
 > Door to Phendrana Shorelines; Heals? False
   * Normal Door to Phendrana Shorelines/Door to Shoreline Entrance
   * Extra - dock_index: 1
   > Door to Transport to Magmoor Caverns West
-      Charge Beam or Missile ≥ 3
+      All of the following:
+          Shoot Any Beam
+          Charge Beam or Missile ≥ 3
 
 ----------------
 Phendrana Shorelines
@@ -49,9 +53,9 @@ Extra - asset_id: 4146616697
           Space Jump Boots
           Morph Ball Bomb and Morph Ball and Complex Bomb Jump (Expert)
   > Door to Ice Ruins Access
-      Missile and Scan Visor
+      Missile and Scan Visor and Shoot Any Beam
   > Pickup (Missile Behind Ice)
-      Plasma Beam
+      Shoot Plasma Beam
 
 > Door to Temple Entryway; Heals? False
   * Normal Door to Temple Entryway/Door to Phendrana Shorelines
@@ -117,21 +121,25 @@ Extra - asset_id: 2245653401
   * Normal Door to Chozo Ice Temple/Door to Temple Entryway
   * Extra - dock_index: 0
   > Door to Phendrana Shorelines
-      Any of the following:
-          Missile or Plasma Beam
-          All of the following:
-              Charge Beam
-              Power Beam or Wave Beam
+      All of the following:
+          Shoot Any Beam
+          Any of the following:
+              Missile or Plasma Beam
+              All of the following:
+                  Charge Beam
+                  Power Beam or Wave Beam
 
 > Door to Phendrana Shorelines; Heals? False; Spawn Point
   * Normal Door to Phendrana Shorelines/Door to Temple Entryway
   * Extra - dock_index: 1
   > Door to Chozo Ice Temple
-      Any of the following:
-          Missile or Plasma Beam
-          All of the following:
-              Charge Beam
-              Power Beam or Wave Beam
+      All of the following:
+          Shoot Any Beam
+          Any of the following:
+              Missile or Plasma Beam
+              All of the following:
+                  Charge Beam
+                  Power Beam or Wave Beam
 
 ----------------
 Save Station B
@@ -187,13 +195,17 @@ Extra - asset_id: 1317347388
   * Normal Door to Ice Ruins East/Door to Ice Ruins Access
   * Extra - dock_index: 0
   > Door to Phendrana Shorelines
-      Charge Beam or Missile or Plasma Beam
+      All of the following:
+          Shoot Any Beam
+          Charge Beam or Missile or Plasma Beam
 
 > Door to Phendrana Shorelines; Heals? False; Spawn Point
   * Normal Door to Phendrana Shorelines/Door to Ice Ruins Access
   * Extra - dock_index: 1
   > Door to Ice Ruins East
-      Charge Beam or Missile or Plasma Beam
+      All of the following:
+          Shoot Any Beam
+          Charge Beam or Missile or Plasma Beam
 
 ----------------
 Chozo Ice Temple
@@ -230,12 +242,12 @@ Extra - asset_id: 1716909342
       After Chozo Ice Temple Bomb Slot
   > Pickup (Artifact of Sun)
       All of the following:
-          Morph Ball and Plasma Beam
+          Morph Ball and Shoot Plasma Beam
           Any of the following:
               Space Jump Boots
               Morph Ball Bomb and Bomb Jump (Intermediate)
   > Event - Chozo Ice Temple Bomb Slot
-      Morph Ball Bomb and Missile and Morph Ball
+      Morph Ball Bomb and Missile and Morph Ball and Shoot Any Beam
 
 ----------------
 Ice Ruins West
@@ -260,19 +272,20 @@ Extra - asset_id: 3006924320
               Any of the following:
                   All of the following:
                       # https://youtu.be/_tAyGmcRUH0
-                      Missile and L-Jump (Beginner)
+                      Missile and L-Jump (Beginner) and Shoot Any Beam
                   All of the following:
                       Any of the following:
                           # https://youtu.be/0welXKqaL84
                           Combat/Scan Dash (Intermediate)
-                          Missile and Combat/Scan Dash (Beginner)
+                          Missile and Combat/Scan Dash (Beginner) and Shoot Any Beam
                       Any of the following:
                           Before Research Core Power Outage
                           Scan Visor and After Research Core Power Outage
           All of the following:
               Space Jump Boots
               Any of the following:
-                  Missile or Slope Jump (Beginner)
+                  Slope Jump (Beginner)
+                  Missile and Shoot Any Beam
                   All of the following:
                       # https://youtu.be/zmfRbFW7iTs
                       Before Research Core Power Outage and Jump Off Enemies (Beginner)
@@ -313,7 +326,7 @@ Extra - asset_id: 3006924320
           Before Research Core Power Outage and Combat/Scan Dash (Beginner)
   > Pickup (Power Bomb)
       All of the following:
-          Plasma Beam
+          Shoot Plasma Beam
           Any of the following:
               Space Jump Boots
               Any of the following:
@@ -340,7 +353,7 @@ Extra - asset_id: 3673997935
               Spider Ball
               Morph Ball Bomb and Complex Bomb Jump (Expert)
   > Pickup (Missile Expansion Behind Ice)
-      Plasma Beam
+      Shoot Plasma Beam
 
 > Door to Plaza Walkway; Heals? False
   * Normal Door to Plaza Walkway/Door to Ice Ruins East
@@ -415,13 +428,13 @@ Extra - asset_id: 1086671081
   * Extra - dock_index: 0
   > Pickup (Wave Beam)
       Any of the following:
-          Missile ≥ 25
+          Missile ≥ 25 and Shoot Any Beam
           All of the following:
               Morph Ball
               Any of the following:
                   Morph Ball Bomb
                   Power Bomb and Combat (Beginner)
-          Missile ≥ 17 and Combat (Beginner)
+          Missile ≥ 17 and Combat (Beginner) and Shoot Any Beam
 
 > Pickup (Wave Beam); Heals? False
   * Pickup 41; Major Location? True
@@ -510,7 +523,7 @@ Extra - asset_id: 421627757
       Space Jump Boots or L-Jump (Intermediate)
   > Door to Quarantine Access
       All of the following:
-          Wave Beam and Shoot Super Missile
+          Shoot Super Missile and Shoot Wave Beam
           Thermal Visor or Invisible Objects (Beginner)
   > Front of Tunnel
       Any of the following:
@@ -600,7 +613,9 @@ Extra - asset_id: 3038760489
   * Wave Door to Specimen Storage/Door to Research Entrance
   * Extra - dock_index: 0
   > Door to Map Station
-      Charge Beam or Combat (Beginner)
+      All of the following:
+          Shoot Any Beam
+          Charge Beam or Combat (Beginner)
 
 > Door to Map Station; Heals? False
   * Normal Door to Map Station/Door to Research Entrance
@@ -614,7 +629,9 @@ Extra - asset_id: 3038760489
   * Wave Door to Hydra Lab Entryway/Door to Research Entrance
   * Extra - dock_index: 2
   > Door to Map Station
-      Charge Beam or Combat (Beginner)
+      All of the following:
+          Shoot Any Beam
+          Charge Beam or Combat (Beginner)
 
 ----------------
 North Quarantine Tunnel
@@ -741,6 +758,7 @@ Extra - asset_id: 1880625556
 > Fight Trigger; Heals? False
   > Event - Thardus
       All of the following:
+          Shoot Any Beam
           Thermal Visor or Invisible Objects (Beginner)
           Any of the following:
               Combat (Intermediate) or Normal Damage ≥ 300
@@ -872,22 +890,12 @@ Extra - asset_id: 1068802894
 > Door to Observatory Access; Heals? False; Spawn Point
   * Wave Door to Observatory Access/Door to Observatory
   * Extra - dock_index: 0
-  > Door to Save Station D
-      All of the following:
-          Space Jump Boots
-          Any of the following:
-              After Observatory Activated or R-Jump (Advanced)
-              Scan Visor and Combat/Scan Dash (Advanced)
-  > Event - Observatory Activated
-      All of the following:
-          Morph Ball Bomb and Boost Ball and Morph Ball and Scan Visor and Before Research Core Power Outage
-          Space Jump Boots or Bomb Jump (Advanced)
+  > Bottom Floor
+      Trivial
 
 > Door to West Tower Entrance; Heals? False
   * Wave Door to West Tower Entrance/Door to Observatory
   * Extra - dock_index: 1
-  > Door to Observatory Access
-      Trivial
   > Door to Save Station D
       Any of the following:
           After Observatory Activated
@@ -900,43 +908,87 @@ Extra - asset_id: 1068802894
   > Pickup (Super Missile)
       Any of the following:
           After Observatory Activated
-          Space Jump Boots and Slope Jump (Intermediate) and Standable Terrain (Intermediate)
+          All of the following:
+              # https://youtu.be/e6imQoOyWbM
+              Space Jump Boots and Slope Jump (Intermediate) and Standable Terrain (Intermediate)
           Morph Ball Bomb and Morph Ball and Scan Visor and Complex Bomb Jump (Expert) and Combat/Scan Dash (Advanced) and Standable Terrain (Expert)
+  > Bottom Floor
+      Trivial
 
 > Door to Save Station D; Heals? False
   * Missile Blast Shield to Save Station D/Door to Observatory
   * Extra - dock_index: 2
-  > Door to Observatory Access
-      Trivial
   > Door to West Tower Entrance
       Any of the following:
           After Observatory Activated
           All of the following:
               Space Jump Boots
               Any of the following:
-                  R-Jump (Beginner)
-                  Scan Visor and Combat/Scan Dash (Intermediate)
-          Scan Visor and Combat/Scan Dash (Advanced)
+                  All of the following:
+                      # https://youtu.be/yrL6m7KZwzI
+                      Scan Visor and Combat/Scan Dash (Beginner)
+                  All of the following:
+                      # https://youtu.be/2PdzFoqPPp4
+                      R-Jump (Beginner)
+          All of the following:
+              # https://youtu.be/_Eky5MoFFL8
+              Scan Visor and Combat/Scan Dash (Intermediate)
   > Pickup (Super Missile)
       Any of the following:
           After Observatory Activated
           Morph Ball Bomb and Morph Ball and Space Jump Boots and Bomb Space Jump (Advanced) and L-Jump (Intermediate) and Standable Terrain (Advanced)
+  > Bottom Floor
+      Trivial
 
 > Event - Observatory Activated; Heals? False
   * Event Observatory Activated
-  > Door to Observatory Access
+  > Bottom Floor
       Trivial
-  > Door to Save Station D
-      Space Jump Boots
 
 > Pickup (Super Missile); Heals? False
   * Pickup 47; Major Location? True
-  > Door to Observatory Access
-      Trivial
   > Door to West Tower Entrance
-      After Observatory Activated
+      Trivial
   > Door to Save Station D
-      After Observatory Activated
+      Trivial
+  > Bottom Floor
+      Trivial
+
+> Bottom Floor; Heals? False
+  > Door to Observatory Access
+      After Research Core Power Outage or After Observatory Doors Unlocked
+  > Door to Save Station D
+      All of the following:
+          Space Jump Boots
+          Any of the following:
+              After Observatory Activated
+              All of the following:
+                  # https://youtu.be/OEM8soADv0Y
+                  Scan Visor and Combat/Scan Dash (Intermediate)
+              All of the following:
+                  # https://youtu.be/eXoQN7_dfq8
+                  R-Jump (Advanced)
+              All of the following:
+                  # https://youtu.be/95yO_7_vxps
+                  Before Research Core Power Outage and Combat/Scan Dash (Intermediate)
+              All of the following:
+                  # https://youtu.be/DLk9t36ABUo
+                  After Research Core Power Outage and Combat/Scan Dash (Advanced)
+  > Event - Observatory Activated
+      All of the following:
+          Morph Ball Bomb and Boost Ball and Morph Ball and Scan Visor and After Observatory Doors Unlocked
+          Space Jump Boots or Bomb Jump (Advanced)
+  > Event - Observatory Doors Unlocked
+      Any of the following:
+          After Research Core Power Outage or Shoot Any Beam
+          All of the following:
+              Morph Ball and Combat (Beginner)
+              Morph Ball Bomb or Power Bomb ≥ 4
+
+> Event - Observatory Doors Unlocked; Heals? False
+  * Event Observatory Doors Unlocked
+  > Bottom Floor
+      Trivial
 
 ----------------
 Transport Access
@@ -955,13 +1007,13 @@ Extra - asset_id: 3600136536
       Trivial
   > Pickup (Energy Tank)
       Any of the following:
-          Plasma Beam
-          Boost Ball and Charge Beam and Morph Ball and Space Jump Boots and Clip Through Objects (Advanced) and Single Room Out of Bounds (Hypermode) and Jump Off Enemies (Hypermode) and Standable Terrain (Advanced) and Normal Damage ≥ 125
+          Shoot Plasma Beam
+          Boost Ball and Charge Beam and Morph Ball and Space Jump Boots and Clip Through Objects (Advanced) and Single Room Out of Bounds (Hypermode) and Jump Off Enemies (Hypermode) and Standable Terrain (Advanced) and Normal Damage ≥ 125 and Shoot Any Beam
 
 > Pickup (Energy Tank); Heals? False
   * Pickup 48; Major Location? False
   > Door to Frozen Pike
-      Plasma Beam
+      Shoot Plasma Beam
 
 ----------------
 West Tower Entrance
@@ -1005,13 +1057,23 @@ Extra - asset_id: 3617515525
           All of the following:
               Space Jump Boots
               Any of the following:
-                  R-Jump (Advanced) or Standable Terrain (Intermediate)
-                  Scan Visor and Combat/Scan Dash (Intermediate)
+                  All of the following:
+                      # https://youtu.be/17qBAQiAywk
+                      Standable Terrain (Intermediate)
+                  All of the following:
+                      # https://youtu.be/th2FrK3Vq7Q
+                      R-Jump (Intermediate)
+                  All of the following:
+                      # https://youtu.be/mYdibe1u6sU
+                      Scan Visor and Combat/Scan Dash (Intermediate)
                   All of the following:
                       Morph Ball
                       Any of the following:
                           Morph Ball Bomb
                           Boost Ball and Wall Boost (Intermediate)
+                  All of the following:
+                      # https://youtu.be/dPyQ3GPAjmo
+                      Before Gravity Chamber Item (Lower) and Combat/Scan Dash (Intermediate)
           Morph Ball Bomb and Morph Ball and Bomb Jump (Expert)
   > Door to Frost Cave Access
       Trivial
@@ -1034,7 +1096,7 @@ Extra - asset_id: 3617515525
               Combat/Scan Dash (Expert) and Slope Jump (Intermediate) and Standable Terrain (Advanced)
               Any of the following:
                   X-Ray Visor and Before Gravity Chamber Item (Lower)
-                  Ice Beam and After Gravity Chamber Item (Lower)
+                  After Gravity Chamber Item (Lower) and Shoot Ice Beam
   > Door to Hunter Cave Access
       Any of the following:
           All of the following:
@@ -1043,7 +1105,9 @@ Extra - asset_id: 3617515525
                   Space Jump Boots
                   Morph Ball Bomb and Morph Ball and Bomb Jump (Beginner)
           No Gravity Suit and Slope Jump (Advanced) and Gravityless Underwater Movement (Advanced) and Enabled Allow Dangerous Gravity Suit Logic
-          Space Jump Boots and Slope Jump (Intermediate) and Gravityless Underwater Movement (Intermediate)
+          All of the following:
+              # https://youtu.be/zr6XEZTreSs
+              Space Jump Boots and Slope Jump (Intermediate) and Gravityless Underwater Movement (Intermediate)
 
 > Door to Hunter Cave Access; Heals? False
   * Wave Door to Hunter Cave Access/Door to Frozen Pike
@@ -1137,6 +1201,15 @@ Extra - asset_id: 3015914057
   * Wave Door to West Tower/Door to Control Tower
   * Extra - dock_index: 1
   > Room Center
+      Any of the following:
+          After Research Core Power Outage or After Control Tower Pirate Fight
+          All of the following:
+              # https://youtu.be/zN1ArZt9Dd4
+              Space Jump Boots and Movement (Beginner)
+          All of the following:
+              # https://youtu.be/5zRUctzyPEI
+              Morph Ball Bomb and Morph Ball and Bomb Jump (Beginner) and Movement (Beginner)
+  > Event - Pirate Fight
       Trivial
 
 > Pickup (Artifact of Elder); Heals? False
@@ -1158,7 +1231,7 @@ Extra - asset_id: 3015914057
                   Single Room Out of Bounds (Advanced)
                   Single Room Out of Bounds (Intermediate) and Standable Terrain (Intermediate)
   > Event - Tower (From Pickup)
-      Missile
+      Missile and Shoot Any Beam
 
 > Event - Tower (From Room Center); Heals? False
   * Event Control Tower Tower
@@ -1171,7 +1244,14 @@ Extra - asset_id: 3015914057
   > Door to East Tower
       Trivial
   > Door to West Tower
-      Trivial
+      Any of the following:
+          After Research Core Power Outage or After Control Tower Pirate Fight
+          All of the following:
+              # https://youtu.be/H3u1vn0XjJw
+              Space Jump Boots and Movement (Beginner)
+          All of the following:
+              # https://youtu.be/arj__iUY5OQ
+              Movement (Beginner) and Slope Jump (Advanced)
   > Pickup (Artifact of Elder)
       Any of the following:
           All of the following:
@@ -1188,7 +1268,7 @@ Extra - asset_id: 3015914057
                   Morph Ball Bomb and Morph Ball and Complex Bomb Jump (Expert)
   > Event - Tower (From Room Center)
       All of the following:
-          Missile
+          Missile and Shoot Any Beam
           Any of the following:
               All of the following:
                   Plasma Beam
@@ -1196,12 +1276,21 @@ Extra - asset_id: 3015914057
                       Space Jump Boots
                       Morph Ball Bomb and Morph Ball and Bomb Jump (Beginner)
                       Slope Jump (Beginner) and Standable Terrain (Beginner)
-              Space Jump Boots and Standable Terrain (Intermediate)
+              All of the following:
+                  # https://youtu.be/6ntTB7Pdx2o
+                  Space Jump Boots and Standable Terrain (Intermediate)
+  > Event - Pirate Fight
+      Trivial
 
 > Event - Tower (From Pickup); Heals? False
   * Event Control Tower Tower
   > Pickup (Artifact of Elder)
       Trivial
+
+> Event - Pirate Fight; Heals? False
+  * Event Control Tower Pirate Fight
+  > Room Center
+      Charge Beam or Combat (Beginner)
 
 ----------------
 Research Core
@@ -1214,7 +1303,7 @@ Extra - asset_id: 2761631044
       Any of the following:
           Before Research Core Power Outage
           All of the following:
-              Wave Beam and After Research Core Power Outage
+              After Research Core Power Outage and Shoot Wave Beam
               Thermal Visor or Invisible Objects (Beginner)
   > Pickup (Thermal Visor)
       Scan Visor
@@ -1262,7 +1351,7 @@ Extra - asset_id: 1282373491
       Trivial
   > Event - Ice Broken
       All of the following:
-          Missile
+          Missile and Shoot Any Beam
           Any of the following:
               All of the following:
                   Grapple Beam
@@ -1272,7 +1361,7 @@ Extra - asset_id: 1282373491
                   Any of the following:
                       Space Jump Boots and Combat/Scan Dash (Intermediate)
                       Combat/Scan Dash (Advanced) and Slope Jump (Beginner)
-              Ice Beam and Space Jump Boots and Jump Off Enemies (Advanced)
+              Space Jump Boots and Jump Off Enemies (Advanced) and Shoot Ice Beam
 
 > Door to Upper Edge Tunnel; Heals? False
   * Wave Door to Upper Edge Tunnel/Door to Frost Cave
@@ -1300,8 +1389,10 @@ Extra - asset_id: 1282373491
       Any of the following:
           All of the following:
               Space Jump Boots
-              Missile or Slope Jump (Intermediate)
-          Morph Ball Bomb and Missile and Morph Ball and Bomb Jump (Advanced)
+              Any of the following:
+                  Slope Jump (Intermediate)
+                  Missile and Shoot Any Beam
+          Morph Ball Bomb and Missile and Morph Ball and Bomb Jump (Advanced) and Shoot Any Beam
   > Door to Frost Cave Access
       Any of the following:
           Space Jump Boots
@@ -1311,8 +1402,10 @@ Extra - asset_id: 1282373491
       Any of the following:
           All of the following:
               Space Jump Boots
-              Missile or L-Jump (Intermediate) or Slope Jump (Intermediate)
-          Morph Ball Bomb and Missile and Morph Ball and Bomb Jump (Intermediate)
+              Any of the following:
+                  L-Jump (Intermediate) or Slope Jump (Intermediate)
+                  Missile and Shoot Any Beam
+          Morph Ball Bomb and Missile and Morph Ball and Bomb Jump (Intermediate) and Shoot Any Beam
   > Pickup (Missile)
       After Frost Cave Ice Floor
 
@@ -1340,14 +1433,14 @@ Extra - asset_id: 516396314
   * Extra - dock_index: 1
   > Door to Hunter Cave Access
       Any of the following:
-          Grapple Beam and Missile
+          Grapple Beam and Missile and Shoot Any Beam
           Space Jump Boots and Combat/Scan Dash (Intermediate)
           Space Jump Boots and R-Jump (Advanced)
   > Door to Lake Tunnel
       Any of the following:
           Gravity Suit and Space Jump Boots and Slope Jump (Advanced)
           All of the following:
-              Missile ≥ 3
+              Missile ≥ 3 and Shoot Any Beam
               Any of the following:
                   Space Jump Boots
                   All of the following:
@@ -1511,23 +1604,27 @@ Extra - asset_id: 565493750
   * Extra - dock_index: 0
   > Lab Catwalk
       Any of the following:
-          Missile or Scan Visor
-          All of the following:
-              Knowledge (Beginner)
-              Plasma Beam or Power Bomb
+          Scan Visor
+          Power Bomb and Knowledge (Beginner)
+          Missile and Shoot Any Beam
+          Knowledge (Beginner) and Shoot Plasma Beam
 
 > Door to Research Core Access; Heals? False
   * Wave Door to Research Core Access/Door to Research Lab Aether
   * Extra - dock_index: 1
   > Pickup (Energy Tank)
       Any of the following:
-          Missile
-          Morph Ball and Power Bomb
+          Missile and Shoot Any Beam
+          Morph Ball and Power Bomb and Knowledge (Beginner)
   > Lab Catwalk
       Any of the following:
           Scan Visor
-          Space Jump Boots and Standable Terrain (Beginner)
-          L-Jump (Beginner) and Standable Terrain (Intermediate)
+          All of the following:
+              # https://youtu.be/zZVZ7_-LyR8
+              Space Jump Boots and Standable Terrain (Beginner)
+          All of the following:
+              # https://youtu.be/vf1iKbVrS1I
+              Standable Terrain (Intermediate)
 
 > Pickup (Energy Tank); Heals? False
   * Pickup 52; Major Location? False
@@ -1546,15 +1643,27 @@ Extra - asset_id: 565493750
           All of the following:
               Standable Terrain (Beginner)
               Any of the following:
-                  L-Jump (Beginner)
-                  Morph Ball Bomb and Morph Ball and Bomb Jump (Beginner)
-                  Scan Visor and Combat/Scan Dash (Intermediate)
+                  All of the following:
+                      # https://youtu.be/ACgnuZ83_q8
+                      Morph Ball Bomb and Morph Ball and Bomb Jump (Beginner)
+                  All of the following:
+                      # https://youtu.be/2tMrzeceF0c
+                      Scan Visor and Combat/Scan Dash (Intermediate)
+                  All of the following:
+                      # https://youtu.be/TtYvSKfbjRY
+                      L-Jump (Beginner)
   > Door to Research Core Access
       Trivial
   > Pickup (Missile)
       All of the following:
           Morph Ball
-          Space Jump Boots or Standable Terrain (Beginner)
+          Any of the following:
+              All of the following:
+                  # https://youtu.be/quZRs389JiY
+                  Space Jump Boots
+              All of the following:
+                  # https://youtu.be/022mTivoGZY
+                  Standable Terrain (Beginner)
 
 ----------------
 Phendrana's Edge
@@ -1651,7 +1760,7 @@ Extra - asset_id: 1226265714
               Any of the following:
                   Slope Jump (Advanced)
                   Scan Visor and Combat/Scan Dash (Advanced)
-          Grapple Beam and Plasma Beam
+          Grapple Beam and Shoot Plasma Beam
 
 > Pickup (Gravity Suit); Heals? False
   * Pickup 54; Major Location? True
