@@ -890,33 +890,12 @@ Extra - asset_id: 1068802894
 > Door to Observatory Access; Heals? False; Spawn Point
   * Wave Door to Observatory Access/Door to Observatory
   * Extra - dock_index: 0
-  > Door to Save Station D
-      All of the following:
-          Space Jump Boots
-          Any of the following:
-              After Observatory Activated
-              All of the following:
-                  # https://youtu.be/OEM8soADv0Y
-                  Scan Visor and Combat/Scan Dash (Intermediate)
-              All of the following:
-                  # https://youtu.be/eXoQN7_dfq8
-                  R-Jump (Advanced)
-              All of the following:
-                  # https://youtu.be/95yO_7_vxps
-                  Before Research Core Power Outage and Combat/Scan Dash (Intermediate)
-              All of the following:
-                  # https://youtu.be/DLk9t36ABUo
-                  After Research Core Power Outage and Combat/Scan Dash (Advanced)
-  > Event - Observatory Activated
-      All of the following:
-          Morph Ball Bomb and Boost Ball and Morph Ball and Scan Visor and Before Research Core Power Outage
-          Space Jump Boots or Bomb Jump (Advanced)
+  > Bottom Floor
+      Trivial
 
 > Door to West Tower Entrance; Heals? False
   * Wave Door to West Tower Entrance/Door to Observatory
   * Extra - dock_index: 1
-  > Door to Observatory Access
-      Trivial
   > Door to Save Station D
       Any of the following:
           After Observatory Activated
@@ -933,12 +912,12 @@ Extra - asset_id: 1068802894
               # https://youtu.be/e6imQoOyWbM
               Space Jump Boots and Slope Jump (Intermediate) and Standable Terrain (Intermediate)
           Morph Ball Bomb and Morph Ball and Scan Visor and Complex Bomb Jump (Expert) and Combat/Scan Dash (Advanced) and Standable Terrain (Expert)
+  > Bottom Floor
+      Trivial
 
 > Door to Save Station D; Heals? False
   * Missile Blast Shield to Save Station D/Door to Observatory
   * Extra - dock_index: 2
-  > Door to Observatory Access
-      Trivial
   > Door to West Tower Entrance
       Any of the following:
           After Observatory Activated
@@ -958,22 +937,58 @@ Extra - asset_id: 1068802894
       Any of the following:
           After Observatory Activated
           Morph Ball Bomb and Morph Ball and Space Jump Boots and Bomb Space Jump (Advanced) and L-Jump (Intermediate) and Standable Terrain (Advanced)
+  > Bottom Floor
+      Trivial
 
 > Event - Observatory Activated; Heals? False
   * Event Observatory Activated
-  > Door to Observatory Access
+  > Bottom Floor
       Trivial
-  > Door to Save Station D
-      Space Jump Boots
 
 > Pickup (Super Missile); Heals? False
   * Pickup 47; Major Location? True
-  > Door to Observatory Access
-      Trivial
   > Door to West Tower Entrance
-      After Observatory Activated
+      Trivial
   > Door to Save Station D
-      After Observatory Activated
+      Trivial
+  > Bottom Floor
+      Trivial
+
+> Bottom Floor; Heals? False
+  > Door to Observatory Access
+      After Research Core Power Outage or After Observatory Doors Unlocked
+  > Door to Save Station D
+      All of the following:
+          Space Jump Boots
+          Any of the following:
+              After Observatory Activated
+              All of the following:
+                  # https://youtu.be/OEM8soADv0Y
+                  Scan Visor and Combat/Scan Dash (Intermediate)
+              All of the following:
+                  # https://youtu.be/eXoQN7_dfq8
+                  R-Jump (Advanced)
+              All of the following:
+                  # https://youtu.be/95yO_7_vxps
+                  Before Research Core Power Outage and Combat/Scan Dash (Intermediate)
+              All of the following:
+                  # https://youtu.be/DLk9t36ABUo
+                  After Research Core Power Outage and Combat/Scan Dash (Advanced)
+  > Event - Observatory Activated
+      All of the following:
+          Morph Ball Bomb and Boost Ball and Morph Ball and Scan Visor and After Observatory Doors Unlocked
+          Space Jump Boots or Bomb Jump (Advanced)
+  > Event - Observatory Doors Unlocked
+      Any of the following:
+          After Research Core Power Outage or Shoot Any Beam
+          All of the following:
+              Morph Ball and Combat (Beginner)
+              Morph Ball Bomb or Power Bomb ≥ 4
+
+> Event - Observatory Doors Unlocked; Heals? False
+  * Event Observatory Doors Unlocked
+  > Bottom Floor
+      Trivial
 
 ----------------
 Transport Access

@@ -502,6 +502,10 @@
             "Event52": {
                 "long_name": "Control Tower Pirate Fight",
                 "extra": {}
+            },
+            "Event53": {
+                "long_name": "Observatory Doors Unlocked",
+                "extra": {}
             }
         },
         "tricks": {

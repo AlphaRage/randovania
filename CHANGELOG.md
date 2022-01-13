@@ -69,6 +69,7 @@ This feature comes with plenty of quality of life functionality for editing the 
 - Fixed: Quarantine Cave - Properly model when the fight is required and when it is not
 - Fixed: Bug where Biohazard Containment didn't check Power Conduit Requirements if Super Missiles were available
 - Fixed: Typo in Frozen Pike - Hunter Cave Access requires Slope Jump (Advanced), not Single-Room OoB (Advanced)
+- Fixed: Research Core item no longer considered a dangerous action
 - Added: New Event - Gravity Chamber Item (Lower)
 - Added: New Trick Category - Infinite Speed
 - Added: Magma Pool - Added standable terrain method to cross the room with a video example
@@ -139,7 +140,7 @@ This feature comes with plenty of quality of life functionality for editing the 
 - Changed: Sun Tower Early Wild now requires Intermediate Knowledge on all methods
 - Changed: Observatory lower part Scan Dash difficulty from Advanced to Intermediate
 - Changed: Observatory upper part Scan Dash diccifulty from Intermediate to Beginner
-- Changed: Observatory upper part NSJ Scan Dash diccifulty from Advanced to Intermediate
+- Changed: Observatory upper part NSJ Scan Dash diccifulty from Advanced to Intermediate 
 - Changed: Research Lab Aether NSJ to Catwalk removed L-Jump requirement
 - Changed: Frozen Pike R-Jump to Transport Access from Advanced to Intermediate
 
