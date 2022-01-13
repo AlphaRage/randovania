@@ -894,8 +894,19 @@ Extra - asset_id: 1068802894
       All of the following:
           Space Jump Boots
           Any of the following:
-              After Observatory Activated or R-Jump (Advanced)
-              Scan Visor and Combat/Scan Dash (Advanced)
+              After Observatory Activated
+              All of the following:
+                  # https://youtu.be/OEM8soADv0Y
+                  Scan Visor and Combat/Scan Dash (Intermediate)
+              All of the following:
+                  # https://youtu.be/eXoQN7_dfq8
+                  R-Jump (Advanced)
+              All of the following:
+                  # https://youtu.be/95yO_7_vxps
+                  Before Research Core Power Outage and Combat/Scan Dash (Intermediate)
+              All of the following:
+                  # https://youtu.be/DLk9t36ABUo
+                  After Research Core Power Outage and Combat/Scan Dash (Advanced)
   > Event - Observatory Activated
       All of the following:
           Morph Ball Bomb and Boost Ball and Morph Ball and Scan Visor and Before Research Core Power Outage
@@ -918,7 +929,9 @@ Extra - asset_id: 1068802894
   > Pickup (Super Missile)
       Any of the following:
           After Observatory Activated
-          Space Jump Boots and Slope Jump (Intermediate) and Standable Terrain (Intermediate)
+          All of the following:
+              # https://youtu.be/e6imQoOyWbM
+              Space Jump Boots and Slope Jump (Intermediate) and Standable Terrain (Intermediate)
           Morph Ball Bomb and Morph Ball and Scan Visor and Complex Bomb Jump (Expert) and Combat/Scan Dash (Advanced) and Standable Terrain (Expert)
 
 > Door to Save Station D; Heals? False
@@ -932,9 +945,15 @@ Extra - asset_id: 1068802894
           All of the following:
               Space Jump Boots
               Any of the following:
-                  R-Jump (Beginner)
-                  Scan Visor and Combat/Scan Dash (Intermediate)
-          Scan Visor and Combat/Scan Dash (Advanced)
+                  All of the following:
+                      # https://youtu.be/yrL6m7KZwzI
+                      Scan Visor and Combat/Scan Dash (Beginner)
+                  All of the following:
+                      # https://youtu.be/2PdzFoqPPp4
+                      R-Jump (Beginner)
+          All of the following:
+              # https://youtu.be/_Eky5MoFFL8
+              Scan Visor and Combat/Scan Dash (Intermediate)
   > Pickup (Super Missile)
       Any of the following:
           After Observatory Activated
@@ -1023,13 +1042,23 @@ Extra - asset_id: 3617515525
           All of the following:
               Space Jump Boots
               Any of the following:
-                  R-Jump (Advanced) or Standable Terrain (Intermediate)
-                  Scan Visor and Combat/Scan Dash (Intermediate)
+                  All of the following:
+                      # https://youtu.be/17qBAQiAywk
+                      Standable Terrain (Intermediate)
+                  All of the following:
+                      # https://youtu.be/th2FrK3Vq7Q
+                      R-Jump (Intermediate)
+                  All of the following:
+                      # https://youtu.be/mYdibe1u6sU
+                      Scan Visor and Combat/Scan Dash (Intermediate)
                   All of the following:
                       Morph Ball
                       Any of the following:
                           Morph Ball Bomb
                           Boost Ball and Wall Boost (Intermediate)
+                  All of the following:
+                      # https://youtu.be/dPyQ3GPAjmo
+                      Before Gravity Chamber Item (Lower) and Combat/Scan Dash (Intermediate)
           Morph Ball Bomb and Morph Ball and Bomb Jump (Expert)
   > Door to Frost Cave Access
       Trivial
@@ -1061,7 +1090,9 @@ Extra - asset_id: 3617515525
                   Space Jump Boots
                   Morph Ball Bomb and Morph Ball and Bomb Jump (Beginner)
           No Gravity Suit and Slope Jump (Advanced) and Gravityless Underwater Movement (Advanced) and Enabled Allow Dangerous Gravity Suit Logic
-          Space Jump Boots and Slope Jump (Intermediate) and Gravityless Underwater Movement (Intermediate)
+          All of the following:
+              # https://youtu.be/zr6XEZTreSs
+              Space Jump Boots and Slope Jump (Intermediate) and Gravityless Underwater Movement (Intermediate)
 
 > Door to Hunter Cave Access; Heals? False
   * Wave Door to Hunter Cave Access/Door to Frozen Pike
@@ -1155,6 +1186,15 @@ Extra - asset_id: 3015914057
   * Wave Door to West Tower/Door to Control Tower
   * Extra - dock_index: 1
   > Room Center
+      Any of the following:
+          After Research Core Power Outage or After Control Tower Pirate Fight
+          All of the following:
+              # https://youtu.be/zN1ArZt9Dd4
+              Space Jump Boots and Movement (Beginner)
+          All of the following:
+              # https://youtu.be/5zRUctzyPEI
+              Morph Ball Bomb and Morph Ball and Bomb Jump (Beginner) and Movement (Beginner)
+  > Event - Pirate Fight
       Trivial
 
 > Pickup (Artifact of Elder); Heals? False
@@ -1189,7 +1229,14 @@ Extra - asset_id: 3015914057
   > Door to East Tower
       Trivial
   > Door to West Tower
-      Trivial
+      Any of the following:
+          After Research Core Power Outage or After Control Tower Pirate Fight
+          All of the following:
+              # https://youtu.be/H3u1vn0XjJw
+              Space Jump Boots and Movement (Beginner)
+          All of the following:
+              # https://youtu.be/arj__iUY5OQ
+              Movement (Beginner) and Slope Jump (Advanced)
   > Pickup (Artifact of Elder)
       Any of the following:
           All of the following:
@@ -1214,12 +1261,21 @@ Extra - asset_id: 3015914057
                       Space Jump Boots
                       Morph Ball Bomb and Morph Ball and Bomb Jump (Beginner)
                       Slope Jump (Beginner) and Standable Terrain (Beginner)
-              Space Jump Boots and Standable Terrain (Intermediate)
+              All of the following:
+                  # https://youtu.be/6ntTB7Pdx2o
+                  Space Jump Boots and Standable Terrain (Intermediate)
+  > Event - Pirate Fight
+      Trivial
 
 > Event - Tower (From Pickup); Heals? False
   * Event Control Tower Tower
   > Pickup (Artifact of Elder)
       Trivial
+
+> Event - Pirate Fight; Heals? False
+  * Event Control Tower Pirate Fight
+  > Room Center
+      Charge Beam or Combat (Beginner)
 
 ----------------
 Research Core
@@ -1544,12 +1600,16 @@ Extra - asset_id: 565493750
   > Pickup (Energy Tank)
       Any of the following:
           Missile and Shoot Any Beam
-          Morph Ball and Power Bomb
+          Morph Ball and Power Bomb and Knowledge (Beginner)
   > Lab Catwalk
       Any of the following:
           Scan Visor
-          Space Jump Boots and Standable Terrain (Beginner)
-          L-Jump (Beginner) and Standable Terrain (Intermediate)
+          All of the following:
+              # https://youtu.be/zZVZ7_-LyR8
+              Space Jump Boots and Standable Terrain (Beginner)
+          All of the following:
+              # https://youtu.be/vf1iKbVrS1I
+              Standable Terrain (Intermediate)
 
 > Pickup (Energy Tank); Heals? False
   * Pickup 52; Major Location? False
@@ -1568,15 +1628,27 @@ Extra - asset_id: 565493750
           All of the following:
               Standable Terrain (Beginner)
               Any of the following:
-                  L-Jump (Beginner)
-                  Morph Ball Bomb and Morph Ball and Bomb Jump (Beginner)
-                  Scan Visor and Combat/Scan Dash (Intermediate)
+                  All of the following:
+                      # https://youtu.be/ACgnuZ83_q8
+                      Morph Ball Bomb and Morph Ball and Bomb Jump (Beginner)
+                  All of the following:
+                      # https://youtu.be/2tMrzeceF0c
+                      Scan Visor and Combat/Scan Dash (Intermediate)
+                  All of the following:
+                      # https://youtu.be/TtYvSKfbjRY
+                      L-Jump (Beginner)
   > Door to Research Core Access
       Trivial
   > Pickup (Missile)
       All of the following:
           Morph Ball
-          Space Jump Boots or Standable Terrain (Beginner)
+          Any of the following:
+              All of the following:
+                  # https://youtu.be/quZRs389JiY
+                  Space Jump Boots
+              All of the following:
+                  # https://youtu.be/022mTivoGZY
+                  Standable Terrain (Beginner)
 
 ----------------
 Phendrana's Edge

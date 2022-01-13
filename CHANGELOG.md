@@ -112,6 +112,9 @@ This feature comes with plenty of quality of life functionality for editing the 
 - Added: Ore Processing Door To Elevator Access A to Storage Depot B Standable L-Jump with Power Bombs
 - Added: Combat logic for Dynamo Access and Elite Control Elite Pirate fights
 - Added: Intermediate/Advanced Standables to enter/escape Elite Control after/without triggering Elite Pirate
+- Added: Two new Observatory lower part Combat Dashes (Intermediate/Advanced)
+- Added: Pirate Fight event and logic for Control Tower with four tricks to skip the trigger from either side
+- Added: Research Lab Aether Energy Tank Knowledge (Beginner) to use a Power Bomb
 - Changed: Renamed Misc Logic Option to "Allow Dangerous Gravity Suit Logic"
 - Changed: Increased difficulty of Connection Elevator to Deck Beta DBJs to Advanced
 - Changed: HAT Wallboosts can be done using Gravity at the same difficulty
@@ -134,6 +137,11 @@ This feature comes with plenty of quality of life functionality for editing the 
 - Changed: Elite Research Spinners without Boost from Advanced to Intermediate
 - Changed: Ore Processing Door To Elevator Access A to Storage Depot B Standable difficulty from Intermediate to Advanced
 - Changed: Sun Tower Early Wild now requires Intermediate Knowledge on all methods
+- Changed: Observatory lower part Scan Dash difficulty from Advanced to Intermediate
+- Changed: Observatory upper part Scan Dash diccifulty from Intermediate to Beginner
+- Changed: Observatory upper part NSJ Scan Dash diccifulty from Advanced to Intermediate
+- Changed: Research Lab Aether NSJ to Catwalk removed L-Jump requirement
+- Changed: Frozen Pike R-Jump to Transport Access from Advanced to Intermediate
 
 ### Metroid Prime 2: Echoes
 
