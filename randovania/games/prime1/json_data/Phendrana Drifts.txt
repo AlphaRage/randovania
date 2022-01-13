@@ -1024,13 +1024,23 @@ Extra - asset_id: 3617515525
           All of the following:
               Space Jump Boots
               Any of the following:
-                  R-Jump (Advanced) or Standable Terrain (Intermediate)
-                  Scan Visor and Combat/Scan Dash (Intermediate)
+                  All of the following:
+                      # https://youtu.be/17qBAQiAywk
+                      Standable Terrain (Intermediate)
+                  All of the following:
+                      # https://youtu.be/th2FrK3Vq7Q
+                      R-Jump (Intermediate)
+                  All of the following:
+                      # https://youtu.be/mYdibe1u6sU
+                      Scan Visor and Combat/Scan Dash (Intermediate)
                   All of the following:
                       Morph Ball
                       Any of the following:
                           Morph Ball Bomb
                           Boost Ball and Wall Boost (Intermediate)
+                  All of the following:
+                      # https://youtu.be/dPyQ3GPAjmo
+                      Before Gravity Chamber Item (Lower) and Combat/Scan Dash (Intermediate)
           Morph Ball Bomb and Morph Ball and Bomb Jump (Expert)
   > Door to Frost Cave Access
       Trivial
@@ -1062,7 +1072,9 @@ Extra - asset_id: 3617515525
                   Space Jump Boots
                   Morph Ball Bomb and Morph Ball and Bomb Jump (Beginner)
           No Gravity Suit and Slope Jump (Advanced) and Gravityless Underwater Movement (Advanced) and Enabled Allow Dangerous Gravity Suit Logic
-          Space Jump Boots and Slope Jump (Intermediate) and Gravityless Underwater Movement (Intermediate)
+          All of the following:
+              # https://youtu.be/zr6XEZTreSs
+              Space Jump Boots and Slope Jump (Intermediate) and Gravityless Underwater Movement (Intermediate)
 
 > Door to Hunter Cave Access; Heals? False
   * Wave Door to Hunter Cave Access/Door to Frozen Pike
@@ -1566,12 +1578,16 @@ Extra - asset_id: 565493750
   > Pickup (Energy Tank)
       Any of the following:
           Missile
-          Morph Ball and Power Bomb
+          Morph Ball and Power Bomb and Knowledge (Beginner)
   > Lab Catwalk
       Any of the following:
           Scan Visor
-          Space Jump Boots and Standable Terrain (Beginner)
-          L-Jump (Beginner) and Standable Terrain (Intermediate)
+          All of the following:
+              # https://youtu.be/zZVZ7_-LyR8
+              Space Jump Boots and Standable Terrain (Beginner)
+          All of the following:
+              # https://youtu.be/vf1iKbVrS1I
+              Standable Terrain (Intermediate)
 
 > Pickup (Energy Tank); Heals? False
   * Pickup 52; Major Location? False
@@ -1590,15 +1606,27 @@ Extra - asset_id: 565493750
           All of the following:
               Standable Terrain (Beginner)
               Any of the following:
-                  L-Jump (Beginner)
-                  Morph Ball Bomb and Morph Ball and Bomb Jump (Beginner)
-                  Scan Visor and Combat/Scan Dash (Intermediate)
+                  All of the following:
+                      # https://youtu.be/ACgnuZ83_q8
+                      Morph Ball Bomb and Morph Ball and Bomb Jump (Beginner)
+                  All of the following:
+                      # https://youtu.be/2tMrzeceF0c
+                      Scan Visor and Combat/Scan Dash (Intermediate)
+                  All of the following:
+                      # https://youtu.be/TtYvSKfbjRY
+                      L-Jump (Beginner)
   > Door to Research Core Access
       Trivial
   > Pickup (Missile)
       All of the following:
           Morph Ball
-          Space Jump Boots or Standable Terrain (Beginner)
+          Any of the following:
+              All of the following:
+                  # https://youtu.be/quZRs389JiY
+                  Space Jump Boots
+              All of the following:
+                  # https://youtu.be/022mTivoGZY
+                  Standable Terrain (Beginner)
 
 ----------------
 Phendrana's Edge
